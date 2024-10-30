@@ -1,9 +1,13 @@
-# Data Analyst & Data Science Repo
+# Data Analyst & Data Science Repo\
+## Pendahuluan
 Ini adalah repo jurnal belajar Data Analyst dan Data Science.
 
-Referensi Materi Dari :
+Referensi :
 * Dicoding
 * Freecodecamp.org
+
+> [!IMPORTANT]
+> Jurnal belajar ini dibuat secara pribadi berdasarkan referensi-referensi tersebut diatas. Sebagai jurnal belajar, saya ga mengakui segala bentuk hak cipta atas kurikulum dari sumber apapun
 
 ---
 
