@@ -1,10 +1,11 @@
-# Data-Analyst-Data-Science
-Ini adalah repo untuk belajar Data Analyst dan Data Science.
+# Data Analyst & Data Science Repo
+Ini adalah repo jurnal belajar Data Analyst dan Data Science.
 
 Referensi Materi Dari :
 * Dicoding
 * Freecodecamp.org
 
-Progress : <br>
-Day 1 : Setting Environment <br>
-Day 2 : Basic SQL - Data Definition Language
+---
+
+> [!IMPORTANT]
+> Penting untuk paham apa perbedaan antara data analyst dengan data scientist
