@@ -13,5 +13,5 @@ Referensi :
 
 ## Prospektus kerja dan pedoman awal (Data Analysis 101)
 
-> [!IMPORTANT]
-> Penting untuk paham apa perbedaan antara data analyst dengan data scientist
+> [!TIP]
+> Sebelum lanjut, penting untuk paham apa perbedaan antara data analyst dengan data scientist terlebih dahulu
