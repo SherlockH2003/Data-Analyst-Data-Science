@@ -15,3 +15,9 @@ Referensi :
 
 > [!TIP]
 > Sebelum lanjut, penting untuk paham apa perbedaan antara data analyst dengan data scientist terlebih dahulu
+
+* Data Analyst
+  Data Analyst adalah spesialisasi ilmu komputer yang membahas tentang bagaimana data digunakan, untuk mendapatkan insight dari hasil eksplorasi data
+
+* Data Scientist
+  Data Scientist adalah spesialisasi ilmu komputer yang membahas tentang bagaimana data dikerjakan, baik dalam melakukan pengambilan data (Data Wrangling), pembersihan data (Data Cleansing), dan visualisasi data.
