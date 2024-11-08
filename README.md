@@ -1,4 +1,4 @@
-# Data Analyst & Data Science Repo\
+# Data Analyst & Data Science Repo
 ## Pendahuluan
 Ini adalah repo jurnal belajar Data Analyst dan Data Science.
 
